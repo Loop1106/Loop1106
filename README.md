@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Abdirahman Abdullahi Siad
 
-👨‍💻 Software Engineer | Full-Stack Developer
+
 
 I’m a **Software Engineer & Full-Stack Developer** with strong expertise in building **modern, scalable, and efficient web applications**.  
 I have extensive experience working with **RESTful APIs**, ensuring seamless communication between front-end and back-end systems to deliver **dynamic, responsive, and high-performing applications**.
@@ -11,9 +11,9 @@ I have extensive experience working with **RESTful APIs**, ensuring seamless com
 
 ### 💡 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=database)
 
 ---
 
