@@ -1,4 +1,4 @@
-👋 Hello, I’m **Abdirahman Abdullahi Siad**
+# 👋 Hello, I’m Abdirahman Abdullahi Siad
 
 
 
