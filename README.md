@@ -2,7 +2,7 @@
 
 
 
-I’m a **Software Engineer & Full-Stack Developer** with strong expertise in building **modern, scalable, and efficient web applications**.  
+👨‍💻 I’m a **Software Engineer & Full-Stack Developer** with strong expertise in building **modern, scalable, and efficient web applications**.  
 I have extensive experience working with **RESTful APIs**, ensuring seamless communication between front-end and back-end systems to deliver **dynamic, responsive, and high-performing applications**.
 
 ---
@@ -23,6 +23,7 @@ I have extensive experience working with **RESTful APIs**, ensuring seamless com
 ![Express](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express)
 ![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111?style=for-the-badge&logo=tailwind-css)
+![WordPress](https://img.shields.io/badge/WordPress-111?style=for-the-badge&logo=wordpress)
 
 ---
 
