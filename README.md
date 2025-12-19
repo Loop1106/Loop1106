@@ -1,4 +1,4 @@
-# 👋 HELLO, I’M ABDIRAHMAN ABDULLAHI SIAD
+# 👋 HELLO, I’M Abdirahman Abdullahi Siad
 
 👨‍💻 Software Engineer | Full-Stack Developer
 
@@ -43,12 +43,6 @@ I have extensive experience working with **RESTful APIs**, ensuring seamless com
 ### ⚙️ Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
-
----
-
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Loop1106&show_icons=true&theme=dark)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Loop1106&theme=dark)
 
 ---
 
