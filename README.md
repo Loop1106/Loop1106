@@ -1,4 +1,4 @@
-# 👋 HELLO, I’M Abdirahman Abdullahi Siad
+# 👋 Hello, I’m Abdirahman Abdullahi Siad
 
 👨‍💻 Software Engineer | Full-Stack Developer
 
