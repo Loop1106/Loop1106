@@ -1,7 +1,5 @@
 # 👋 Hello, I’m Abdirahman Abdullahi Siad
 
-
-
 👨‍💻 I’m a **Software Engineer & Full-Stack Developer** with strong expertise in building **modern, scalable, and efficient web applications**.  
 I have extensive experience working with **RESTful APIs**, ensuring seamless communication between front-end and back-end systems to deliver **dynamic, responsive, and high-performing applications**.
 
@@ -44,6 +42,19 @@ I have extensive experience working with **RESTful APIs**, ensuring seamless com
 ### ⚙️ Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
+
+---
+
+<!-- 🔥 GitHub Followers Badge -->
+<p dir="auto">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img
+      src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"
+      alt="GitHub followers"
+      style="max-width: 100%;"
+    />
+  </a>
+</p>
 
 ---
 
