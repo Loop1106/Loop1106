@@ -48,11 +48,11 @@ I have extensive experience working with **RESTful APIs**, ensuring seamless com
 <!-- 🔥 GitHub Followers Badge -->
 <!-- 🔥 GitHub Followers Badge -->
 <p dir="auto">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Loop1106">
     <img
       src="https://img.shields.io/github/followers/Loop1106?logo=github&style=for-the-badge&label=followers&color=0891b2&labelColor=1c1917"
       alt="GitHub followers"
-    />
+    />0
   </a>
 </p>
 
