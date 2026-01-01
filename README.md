@@ -43,7 +43,7 @@ I have extensive experience working with **RESTful APIs**, ensuring seamless com
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
 
----
+
 
 <!-- 🔥 GitHub Followers Badge -->
 <!-- 🔥 GitHub Followers Badge -->
